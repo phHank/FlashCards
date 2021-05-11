@@ -21,13 +21,15 @@ This project utilise state management, in the form of Redux. Decks and Questions
 - Update the dependencies to latest versions.
 
 ## Testing Locally
-    - Requirements: An android device with [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent) installed or an [Android Emulator](https://docs.expo.io/workflow/android-studio-emulator/) 
+    - Requirements: An android device with Expo Go installed or an Android Emulator
+
+[Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent)
+[Android Emulator](https://docs.expo.io/workflow/android-studio-emulator/) 
 
     - Download the project files. 
         - cd into the project's root directory
         - `npm install`
         - `expo start`
-
 
 ## Data
 
